@@ -18,7 +18,7 @@ Press `.` to open in browser-based Vscode
 
 Fork or clone this repo
 ```
-git clone https://github.com/d3vkk/vue3-tailwind-starter
+git clone https://github.com/d3vkk/vue3-tailwind-starter.git
 ```
 
 © 2020-present Donald K • Under MIT License
