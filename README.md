@@ -19,4 +19,4 @@ Fork or clone this repo
 git clone https://github.com/d3vkk/vue3-tailwind-starter.git
 ```
 
-© 2020-present Donald K • Under MIT License
+© 2021-present Donald K • Under MIT License
