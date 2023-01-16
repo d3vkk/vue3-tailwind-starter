@@ -7,4 +7,8 @@ export default defineConfig({
     port: 3100,
   },
   plugins: [vue()],
+  test: {
+    globals: true,
+    environment: "happy-dom",
+  },
 });
